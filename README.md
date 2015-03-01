@@ -1,2 +1,2 @@
 # ncsim
-nick cage 2d simulation
+A game set in nick cage meme's
